@@ -2,7 +2,7 @@
    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&reversal=true&text=Software%20Developer&fontSize=30" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Lauro <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hi 👋, I'm Andrés <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?user=Aneal07&label=Perfil%20Visto&color=0e75b6&style=flat" alt="Visitas" />
