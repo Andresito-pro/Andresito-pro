@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Andrés <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?user=Aneal07&label=Perfil%20Visto&color=0e75b6&style=flat" alt="Visitas" />
+  <img src="https://moe-counter.glitch.me/get/@Aneal07?theme=rule34" alt="Visitas al Perfil" />
 </p>
 
 <p align="center">
@@ -38,4 +38,36 @@
 ### 🚀 Proyectos Destacados
 
 * **Chicken Biker**: Sistema de gestión de inventarios y POS con integración de base de datos SQL.
-*
+* **Guardería Project**: Modelado de datos y scripts SQL para la gestión de una institución infantil.
+* **PhET Labs Analysis**: Reportes técnicos basados en simulaciones físicas de densidad y flotabilidad.
+
+---
+
+### 🎓 Educación y Certificaciones
+
+- 🏛️ **Tecnólogo en Desarrollo de Software** - SENA (En curso)
+- 📜 **Bachillerato** - [TU COLEGIO]
+- 🌎 **Inglés** - Enfocado en adquisición de lenguaje técnico y profesional.
+
+---
+
+### ✉️ ¡Conectemos!
+
+<p align="left">
+<a href="https://linkedin.com/in/[TU_PERFIL]" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:[TU_CORREO]" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### 📊 Mis Estadísticas de GitHub
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Aneal07&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Estadísticas generales"/><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aneal07&theme=dark&hide_border=false" alt="Racha de contribuciones"/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aneal07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Lenguajes más usados"/>
+</div>
+
+<p align="center">
+  <i>"El código es poesía escrita en lógica."</i>
+</p>
