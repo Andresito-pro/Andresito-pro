@@ -46,7 +46,7 @@
 ### 🎓 Educación y Certificaciones
 
 - 🏛️ **Tecnólogo en Desarrollo de Software** - SENA (En curso)
-- 📜 **Bachillerato** - [TU COLEGIO]
+- 📜 **Bachillerato** - I.E.Técnica Lopez Quevedo
 - 🌎 **Inglés** - Enfocado en adquisición de lenguaje técnico y profesional.
 
 ---
