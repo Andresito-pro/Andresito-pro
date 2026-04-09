@@ -1,5 +1,5 @@
 <div align="center">
-   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&reversal=true&text=Software%20Developer&fontSize=30" />
+   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0d1b2a,1b263b,415a77&reversal=true&text=Software%20Developer&fontSize=30" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Andrés <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
@@ -19,8 +19,8 @@
 - 🔭 Actualmente trabajando en **Chicken Biker**, un sistema de gestión para restaurantes.
 - 🌱 Perfeccionando mis habilidades en **Python, Django y SQL**.
 - 🎓 Estudiante de Software en **SENA, Colombia**.
-- ⚡ Intereses: Desarrollo Backend, Bases de Datos (MySQL) y análisis cuantitativo de datos.
-- 💬 Pregúntame sobre: Python, lógica de bases de datos o especificaciones de hardware.
+- ⚡ Intereses: Desarrollo Backend, Bases de Datos (MySQL) y análisis cuantitativo de datos de fútbol.
+- 💬 Pregúntame sobre: Python, lógica de bases de datos o especificaciones de hardware de PC.
 
 ---
 
@@ -38,36 +38,4 @@
 ### 🚀 Proyectos Destacados
 
 * **Chicken Biker**: Sistema de gestión de inventarios y POS con integración de base de datos SQL.
-* **Guardería Project**: Modelado de datos y scripts SQL para la gestión de entidades educativas.
-* **PhET Labs Analysis**: Reportes técnicos basados en simulaciones físicas de densidad y flotabilidad.
-
----
-
-### 🎓 Educación y Certificaciones
-
-- 🏛️ **Tecnólogo en Desarrollo de Software** - SENA (En curso)
-- 📜 **Certificación en [NOMBRE DE CURSO]** - [PLATAFORMA]
-- 🌎 **Inglés** - Enfocado en adquisición de lenguaje técnico.
-
----
-
-### ✉️ ¡Conectemos!
-
-<p align="left">
-<a href="https://linkedin.com/in/[TU_PERFIL]" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:[TU_CORREO]" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-### 📊 Mis Estadísticas de GitHub
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Aneal07&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Estadísticas generales"/><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aneal07&theme=dark&hide_border=false" alt="Racha de contribuciones"/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aneal07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Lenguajes más usados"/>
-</div>
-
-<p align="center">
-  <i>"El código es poesía escrita en lógica."</i>
-</p>
+*
