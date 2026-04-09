@@ -5,10 +5,6 @@
 <h1 align="center">Hi 👋, I'm Andrés <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 
 <p align="center">
-  <img src="https://moe-counter.glitch.me/get/@Aneal07?theme=rule34" alt="Visitas al Perfil" />
-</p>
-
-<p align="center">
   <strong>Transformando ideas en código eficiente y soluciones escalables.</strong>
 </p>
 
@@ -19,7 +15,7 @@
 - 🔭 Actualmente trabajando en **Chicken Biker**, un sistema de gestión para restaurantes.
 - 🌱 Perfeccionando mis habilidades en **Python, Django y SQL**.
 - 🎓 Estudiante de Software en **SENA, Colombia**.
-- ⚡ Intereses: Desarrollo Backend, Bases de Datos (MySQL) y análisis cuantitativo de datos de fútbol.
+- ⚡ Intereses: Desarrollo Backend, Bases de Datos (MySQL) y análisis cuantitativo de datos.
 - 💬 Pregúntame sobre: Python, lógica de bases de datos o especificaciones de hardware de PC.
 
 ---
