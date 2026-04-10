@@ -14,7 +14,7 @@
 
 - 🔭 Actualmente trabajando en **Chicken Biker**, un sistema de gestión para restaurantes.
 - 🌱 Perfeccionando mis habilidades en **Python, Django y SQL**.
-- 🎓 Estudiante de Software en **SENA, Colombia**.
+- 🎓 Estudiante de Análisis y Desarrollo de Software en **SENA, Colombia**.
 - ⚡ Intereses: Desarrollo Backend, Bases de Datos (MySQL) y análisis cuantitativo de datos.
 - 💬 Pregúntame sobre: Python, lógica de bases de datos o especificaciones de hardware de PC.
 
@@ -35,13 +35,12 @@
 
 * **Chicken Biker**: Sistema de gestión de inventarios y POS con integración de base de datos SQL.
 * **Guardería Project**: Modelado de datos y scripts SQL para la gestión de una institución infantil.
-* **PhET Labs Analysis**: Reportes técnicos basados en simulaciones físicas de densidad y flotabilidad.
 
 ---
 
 ### 🎓 Educación y Certificaciones
 
-- 🏛️ **Tecnólogo en Desarrollo de Software** - SENA (En curso)
+- 🏛️ **Tecnólogo en Análisis y Desarrollo de Software** - SENA (En curso)
 - 📜 **Bachillerato** - I.E.Técnica Lopez Quevedo
 - 🌎 **Inglés** - Enfocado en adquisición de lenguaje técnico y profesional.
 
@@ -51,19 +50,21 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/[TU_PERFIL]" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:[TU_CORREO]" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:andresbarrera14.05@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Mis Estadísticas de GitHub
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Andresito-pro&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" />
-  
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Andresito-pro&theme=tokyonight&hide_border=false" /> 
+   
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Andresito-pro&theme=tokyonight" /> 
 </p>
 
 <p align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andresito-pro&layout=compact&theme=tokyonight&hide_border=false" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Andresito-pro&bg_color=0d1117&color=0077b5&line=0077b5&point=ffffff&area=true&hide_border=true" />
+</p>
+<p align="center">
+  <i>"El código es poesía escrita en lógica."</i>
 </p>
