@@ -58,12 +58,12 @@
 
 ### 📊 Mis Estadísticas de GitHub
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Aneal07&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Estadísticas generales"/><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aneal07&theme=dark&hide_border=false" alt="Racha de contribuciones"/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aneal07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Lenguajes más usados"/>
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Andresito-pro&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" />
+  
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Andresito-pro&theme=tokyonight&hide_border=false" /> 
+</p>
 
 <p align="center">
-  <i>"El código es poesía escrita en lógica."</i>
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andresito-pro&layout=compact&theme=tokyonight&hide_border=false" />
 </p>
